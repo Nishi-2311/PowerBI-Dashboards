@@ -6,7 +6,7 @@ The dashboard includes filters, drill-downs, and KPIs to highlight key insights.
 
 ## 🛠️ Tools Used
 - Power BI Desktop
-- Dataset: [Sales/HR/Student Performance Dataset] (mention your dataset type)
+- Dataset: [Sales Dataset] 
 
 ## ✨ Key Features
 - Data cleaning and transformation in Power BI
@@ -16,4 +16,5 @@ The dashboard includes filters, drill-downs, and KPIs to highlight key insights.
 
 ## 📂 Files in this Repository
 - `basic dashboard.pbix` → Power BI file
+  👉 Click on the **View Raw** button to directly download and open this file in Power BI Desktop. 
 - `README.md` → Project Description
